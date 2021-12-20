@@ -1,0 +1,108 @@
+.logoBox {
+	width: 400px;
+	margin-left: 40%;
+	margin-top: 20px;
+	display: flex;
+}
+
+.logoBox img {
+	width: 80px;
+	height: 60px;
+}
+
+.logoBox h1 {
+	margin-top: 5px;
+}
+.inputBox {
+	width: 500px;
+	height: 40px;
+	padding-left: 20px;
+	border-radius: 5px;
+	border: 2px solid rgb(243, 242, 242);
+}
+input[type="text"]:focus {
+	border: 3px solid rgb(28, 182, 243);
+}
+
+.searchBox {
+	width: 520px;
+	height: 500px;
+	padding: 2px;
+	margin: 10px auto 0px auto;
+	overflow: scroll;
+}
+
+.searchRow {
+	width: 500px;
+	height: 70px;
+	padding: 0px 10px 0px 10px;
+	border-bottom: 1px solid rgb(158, 156, 156);
+	margin-left: -10px;
+}
+
+.nameBox {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 0px;
+}
+
+.secRow {
+	margin-top: -35px;
+	display: flex;
+}
+
+.secRow1 {
+	display: flex;
+}
+.nse {
+	margin-top: 20px;
+	margin-left: 15px;
+	margin-right: 66%;
+}
+.curr {
+	margin-bottom: 0px;
+}
+
+.addButt {
+	width: 40px;
+	height: 40px;
+	margin-right: 0px;
+	margin-top: 5px;
+	font-size: 25px;
+	visibility: hidden;
+}
+
+.searchRow:hover .addButt {
+	cursor: pointer;
+	visibility: visible;
+}
+
+.searchRow:hover {
+	background-color: rgb(240, 240, 240);
+}
+.ownlist {
+	width: 530px;
+	height: 580px;
+	padding: 2px;
+	margin: 20px auto 0px auto;
+	border: 1px solid rgb(206, 206, 206);
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+
+.tabBox {
+	display: flex;
+	justify-content: space-between;
+}
+.tabs {
+	margin: 10px 10px 0px 0px;
+}
+.tabs button {
+	width: 60px;
+	height: 60px;
+}
+
+.firstTab {
+	margin-right: 10px;
+}

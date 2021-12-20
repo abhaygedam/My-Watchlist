@@ -1,0 +1,387 @@
+{
+  "stocks": [
+      { 
+        
+        "id":1,
+        "name": "ASIANPAINT",
+        "curr": 3143.65,
+        "prev": 3144.3
+    },
+    {
+      "id":2,
+       "name": "NIFTY BANK",
+       "curr": 35590.5,
+       "prev": 35617.55
+    },
+    {
+      "id":3,
+       "name": "BAJAJHLDNG",
+        "curr": 5037.8,
+       "prev": 4940.35
+    },
+    {
+      "id":4,
+      "name":  "CIPLA",
+        "curr": 971.3,
+        "prev":965
+    },
+    {
+      "id":5,
+        "name":"DABUR",
+        "curr": 594.95,
+       "prev": 598
+    },
+    {
+      "id":6,
+       "name": "M&M",
+        "curr": 835.5,
+       "prev": 850.8
+    },
+    {
+      "id":7,
+       "name": "NMDC",
+        "curr": 132.85,
+       "prev": 134.95
+    },
+    {
+      "id":8,
+       "name": "TATACONSUM",
+        "curr": 778.6,
+        "prev":766
+    },
+    {
+      "id":9,
+      "name":  "TORNTPHARM",
+        "curr": 3042.05,
+       "prev": 3037.3
+    },
+    {
+      "id":10,
+      "name":  "NESCO",
+        "curr": 591.05,
+       "prev": 587.6
+    },
+    {
+      "id":11,
+      "name":  "ESABINDIA",
+        "curr": 2678,
+       "prev": 2739.3
+    },
+    {
+      "id":12,
+      "name":  "NEOGEN",
+        "curr": 1393.15,
+       "prev": 1396.25
+    },
+    {
+      "id":13,
+      "name":  "NCLIND",
+        "curr": 209.95,
+        "prev":212.05
+    },
+    {
+      "id":14,
+      "name":  "PURVA",
+        "curr": 135.7,
+       "prev": 132.4
+    },
+    {
+      "id":15,
+      "name":  "SHREDIGCEM",
+        "curr": 76.6,
+       "prev": 75.05
+    },
+    {
+      "id":16,
+      "name":  "BPCL",
+        "curr": 370,
+        "prev":367.45
+    },
+    {
+      "id":17,
+      "name":  "FORTIS",
+        "curr": 280.8,
+        "prev":288.25
+    },
+    {
+      "id":18,
+      "name":  "KIRLOSBROS",
+        "curr": 350.6,
+       "prev": 359
+    },
+    {
+      "id":19,
+      "name":  "CDSL",
+        "curr": 1451.05,
+        "prev":1370.25
+    },
+    {
+      "id":20,
+      "name":  "PRSMJOHNSN",
+        "curr": 122.3,
+       "prev": 120.05
+    },
+    {
+      "id":21,
+      "name":  "VGUARD",
+        "curr": 244.75,
+        "prev":232.15
+    },
+  {
+    "id":22,
+       "name": "JKTYRE",
+        "curr": 128.7,
+        "prev":127.85
+    },
+   {
+      "id":23,
+      "name":  "MAGADSUGAR",
+"curr":        243.9,
+  "prev":      243.9
+    },
+    {
+      "id":24,
+      "name":
+        "MFSL",
+      "curr":  940.25,
+       "prev": 937.65
+    },
+    {
+      "id":25,
+      "name":
+        "IBULHSGFIN",
+"curr" :       229,
+    "prev":    230.9
+    },
+    {
+      "id":26,
+      "name":
+        "VARDHACRLC",
+"curr"   :     49,
+     "prev":   47.85
+    },
+    {
+      "id":27,
+      "name":
+        "LALPATHLAB",
+"curr":        3789.45,
+"prev":        3885.45
+    },
+    {
+      "id":28,
+      "name":
+        "BANKBARODA",
+"curr"   :     85.75,
+  "prev":      86.25
+    },
+    {
+      "id":29,
+      "name":
+        "GRASIM",
+    "curr":    1662.45,
+    "prev":    1683.95
+    },
+    {
+      "id":30,
+      "name":
+        "BIRLACORPN",
+"curr":1349.1,
+ "prev":       1301.75
+    },
+    {
+      "id":31,
+      "name":
+        "SARDAEN",
+   "curr" :    787.35,
+    "prev":    768.3
+    },
+    {
+      "id":32,
+      "name":
+        "RAIN",
+      "curr"  :198.25,
+       "prev": 193.3
+    },
+    {
+      "id":33,
+      "name":
+        "ORIENTCEM",
+ "curr"   :    156.45,
+  "prev":      152.55
+    },
+    {
+      "id":34,
+      "name":
+        "TATACHEM",
+  "curr"  :    872.25,
+   "prev":     868.65
+    },
+    {
+      "id":35,
+      "name":
+        "SHAKTIPUMP",
+"curr":        624.15,
+ "prev":       618.3
+    },
+    {
+      "id":36,
+      "name":
+        "APCL",
+      "curr":  299.1,
+        "prev":294.3
+    },
+    {
+      "id":37,
+      "name":
+        "INFY",
+      "curr" : 1712.65,
+      "prev":  1696.35
+    },
+    {
+      "id":38,
+      "name":
+        "LT",
+        "curr":1764.75,
+        "prev":1767.25
+    },
+    {
+      "id":39,
+      "name":
+        "ONGC",
+      "curr":  142.1,
+        "prev":144.1
+    },
+    {
+      "id":40,
+     "name":   "SUNPHARMA",
+ "curr":      753.6,
+       "prev" : 751.05
+    },
+    {
+      "id":41,
+     "name":   "ATULAUTO",
+  "curr":     209.35,
+        "prev" :210.75
+    },
+    {
+      "id":42,
+     "name":   "CESC",
+      "curr": 87.5,
+        "prev" :86
+    },
+    {
+      "id":43,
+     "name":   "JBCHEPHARM",
+"curr":       1638.7,
+       "prev":  1637.05
+    },
+    {
+      "id":44,
+     "name":   "TATAMETALI",
+"curr":       855,
+        "prev": 871.35
+    },
+    {
+      "id":45,
+     "name":   "BAJAJFINSV",
+"curr":       17237.35 ,
+       "prev": 16890.4
+    },
+    {
+      "id":46,
+     "name":   "BIOCON",
+    "curr":   360.4,
+       "prev":  364.4
+    },
+    {
+      "id":47,
+     "name":   "COALINDIA",
+ "curr":      152,
+        "prev" :154.25
+    },
+    {
+      "id":48,
+     "name":   "HDFCLIFE",
+  "curr":     680.8,
+        "prev": 683.65
+    },
+    {
+      "id":49,
+     "name":   "ICICIPRULI",
+"curr":       593.05,
+       "prev":  587.25
+    },
+    {
+      "id":50,
+     "name":   "NTPC",
+      "curr": 127.25,
+       "prev":  126.5
+    },
+    {
+      "id":51,
+     "name":   "PIDILITIND",
+"curr":       2205.85, 
+       "prev": 2218.1
+    },
+    {
+      "id":52,
+     "name":   "EKC",
+       "curr":144.9,
+        "prev": 152.45
+    },
+    {
+      "id":53,
+     "name":   "ECLERX",
+    "curr":   2188.3,
+        "prev": 2158.3
+    },
+    {
+      "id":54,
+     "name":   "LAURUSLABS",
+"curr":       508.65,
+      "prev":   502.35
+    },
+    {
+      "id":55,
+     "name":   "ARVINDFASN",
+"curr":       281.45,
+       "prev":  282.7
+    },
+    {
+      "id":56,
+     "name":   "PTC",
+       "curr":110.9,
+       "prev":  107.3
+    },
+    {
+      "id":57,
+     "name":   "TCNSBRANDS",
+"curr":       808.6,
+        "prev": 804.95
+    },
+    {
+      "id":58,
+     "name":   "SAIL",
+      "curr": 100.05,
+        "prev": 102.65
+    },
+    {
+      "id":59,
+     "name":   "BAJAJELEC",
+ "curr":      1074.25,
+       "prev" : 1023.1
+    },
+    {
+      "id":60,
+     "name":   "GREENLAM",
+  "curr":     1483.95,
+        "prev": 1511.75
+    },
+    {
+      "id":61,
+     "name":   "MRPL",
+      "curr": 44.4,
+        "prev": 43.4
+    }
+  ]
+}
