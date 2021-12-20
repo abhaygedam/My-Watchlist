@@ -1,4 +1,4 @@
-### Deploy link:- https://mystockswatchlist.herokuapp.com/
+### Deployed link:- https://mystockswatchlist.herokuapp.com/
 
 # Getting Started with Create React App
 
