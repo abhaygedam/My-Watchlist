@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## After npm install do nmp run server in another cmd
+
 ## Available Scripts
 
 In the project directory, you can run:
